@@ -1,4 +1,4 @@
-A simple Java Swing application for symmetric file exchange over TCP.  
+A Java Swing application for symmetric file exchange over TCP.  
 Both peers can send, receive, and list files.
 
 ## Features
@@ -42,3 +42,6 @@ Both windows will display Соединение установлено! and all b
 - `GUI.java` – main window
 - `Node.java` – networking and file logic
 - `Protocol.java` – constants
+
+## Author
+@meggi05 — Student at Novosibirsk State Technical University (NSTU)
