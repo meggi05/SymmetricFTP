@@ -1,0 +1,18 @@
+# Compiled files
+*.class
+out/
+build/
+
+# IDE files (IntelliJ)
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+.DS_Store
+
+# Logs
+*.log
+
+# Local configuration
+local.properties
